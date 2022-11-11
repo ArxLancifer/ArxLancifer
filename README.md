@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 <- 🤔 I’m looking for help with ...>
 - 💬 Ask me about anything i may help 😉
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anestis-christoforidis/)
-< - 😄 Pronouns: ... >
-< - ⚡ Fun fact: ... >
+<!-- - 😄 Pronouns: ...
+ - ⚡ Fun fact: ... -->
 
